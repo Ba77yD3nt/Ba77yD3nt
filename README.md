@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Barry.
-- 👀 I’m interested in learning and applying coding and cybersecurity skils in real-time.
+- 👀 I’m interested in learning and applying coding and cybersecurity skills in real-time.
 - 🌱 I’m currently learning Python, SQL, and cybersecurity basics.
 - 💞️ I’m looking to collaborate on anything new.
 - 📫 How to reach me email: barry_d@live.com
